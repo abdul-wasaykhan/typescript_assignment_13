@@ -1,0 +1,2 @@
+# typescript_assignment_13
+your_own_array
